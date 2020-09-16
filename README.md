@@ -5,3 +5,4 @@
  - Day 4 : Email Generator.(using ajax xmlhttprequest to get data from an api).
  - Day 5 : Tabs Project with Popups images.
  - Day 6 : Making a Simple Notes App.
+ - Day 7 : Loading animation.
