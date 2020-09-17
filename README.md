@@ -6,3 +6,4 @@
  - Day 5 : Tabs Project with Popups images.
  - Day 6 : Making a Simple Notes App.
  - Day 7 : Loading animation.
+ - Day 8 : Making a Simple Movie app using an external Api.
