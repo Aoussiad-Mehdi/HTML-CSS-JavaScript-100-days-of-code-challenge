@@ -7,3 +7,4 @@
  - Day 6 : Making a Simple Notes App.
  - Day 7 : Loading animation.
  - Day 8 : Making a Simple Movie app using an external Api.
+ - Day 9 : Making a simple typing Game.
