@@ -8,3 +8,4 @@
  - Day 7 : Loading animation.
  - Day 8 : Making a Simple Movie app using an external Api.
  - Day 9 : Making a simple typing Game.
+ - Day 10 : Making a countdown Timer. 
