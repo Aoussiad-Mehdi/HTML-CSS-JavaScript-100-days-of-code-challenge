@@ -10,3 +10,5 @@
  - Day 9 : Making a simple typing Game.
  - Day 10 : Making a countdown Timer.
  - Day 11 : Making a simple Calculator with javascript.
+ - Day 12 : Making a Github Profiles project that search for github users by using the github api.
+ - Day 13 : Making a Password Generator Project.
