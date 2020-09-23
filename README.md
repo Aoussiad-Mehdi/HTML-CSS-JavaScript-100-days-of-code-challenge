@@ -1,14 +1,14 @@
 # Vanilla Javascript-100-days-of-code-challenge
- - Day 1 : Making a simple Image Slider.
+ - Day 1 : Making a simple Image Slider.(not hosted)
  - Day 2 : Making a simple to do list. - Demo : https://codepen.io/MehdiAoussiad/full/jOqxydp
- - Day 3 : Simple music player.
- - Day 4 : Email Generator.(using ajax xmlhttprequest to get data from an api).
- - Day 5 : Tabs Project with Popups images.
- - Day 6 : Making a Simple Notes App.
- - Day 7 : Loading animation.
- - Day 8 : Making a Simple Movie app using an external Api.
- - Day 9 : Making a simple typing Game.
- - Day 10 : Making a countdown Timer.
- - Day 11 : Making a simple Calculator with javascript.
- - Day 12 : Making a Github Profiles project that search for github users by using the github api.
- - Day 13 : Making a Password Generator Project.
+ - Day 3 : Simple music player. (not hosted)
+ - Day 4 : Email Generator.(using ajax xmlhttprequest to get data from an api). - Demo : https://codepen.io/MehdiAoussiad/full/QWNxjNp
+ - Day 5 : Tabs Project with Popups images. - Demo : https://codepen.io/MehdiAoussiad/full/VwadEPQ
+ - Day 6 : Making a Simple Notes App. - Demo : https://codepen.io/MehdiAoussiad/full/rNerypg
+ - Day 7 : Loading animation. - Demo : https://codepen.io/MehdiAoussiad/full/JjXaPgO
+ - Day 8 : Making a Simple Movie app using an external Api. - Demo: https://codepen.io/MehdiAoussiad/full/rNeZKGa
+ - Day 9 : Making a simple typing Game. - Demo : https://codepen.io/MehdiAoussiad/full/NWNObyO
+ - Day 10 : Making a countdown Timer. - Demo : https://codepen.io/MehdiAoussiad/full/gOrooxJ
+ - Day 11 : Making a simple Calculator with javascript. - Demo :  https://codepen.io/MehdiAoussiad/full/mdPQdvv
+ - Day 12 : Making a Github Profiles project that search for github users by using the github api. - Demo : https://codepen.io/MehdiAoussiad/full/mdPQxbq
+ - Day 13 : Making a Password Generator Project. - Demo : https://codepen.io/MehdiAoussiad/full/WNwLpLo
