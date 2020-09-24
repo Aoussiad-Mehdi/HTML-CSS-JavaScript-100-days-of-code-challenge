@@ -13,3 +13,4 @@
  - Day 12 : Making a Github Profiles project that search for github users by using the github api. - Demo : https://codepen.io/MehdiAoussiad/full/mdPQxbq
  - Day 13 : Making a Password Generator Project. - Demo : https://codepen.io/MehdiAoussiad/full/WNwLpLo
  - Day 14 : Simple Background Changer : - Demo : https://codepen.io/MehdiAoussiad/full/vYGvqRe
+ - Day 15 : Questions Project (FAQ) : - Demo : https://codepen.io/MehdiAoussiad/full/MWyLXBG
