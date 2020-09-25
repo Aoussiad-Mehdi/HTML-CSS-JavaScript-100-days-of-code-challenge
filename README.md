@@ -14,3 +14,4 @@
  - Day 13 : Making a Password Generator Project. - Demo : https://codepen.io/MehdiAoussiad/full/WNwLpLo
  - Day 14 : Simple Background Changer : - Demo : https://codepen.io/MehdiAoussiad/full/vYGvqRe
  - Day 15 : Questions Project (FAQ) : - Demo : https://codepen.io/MehdiAoussiad/full/MWyLXBG
+ - Day 16 : Simple Form Validation. - Demo : https://codepen.io/MehdiAoussiad/full/OJNqbgV
