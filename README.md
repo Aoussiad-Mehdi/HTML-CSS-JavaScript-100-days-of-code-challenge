@@ -15,3 +15,4 @@
  - Day 14 : Simple Background Changer : - Demo : https://codepen.io/MehdiAoussiad/full/vYGvqRe
  - Day 15 : Questions Project (FAQ) : - Demo : https://codepen.io/MehdiAoussiad/full/MWyLXBG
  - Day 16 : Simple Form Validation. - Demo : https://codepen.io/MehdiAoussiad/full/OJNqbgV
+ - Day 17 : Loading Animation  - Demo : https://codepen.io/MehdiAoussiad/full/poyYOpo
