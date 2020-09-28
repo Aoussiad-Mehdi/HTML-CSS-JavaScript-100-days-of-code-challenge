@@ -1,4 +1,4 @@
-# Vanilla Javascript-100-days-of-code-challenge
+# Javascript-100-days-of-code-challenge
  - Day 1 : Making a simple Image Slider.(not hosted)
  - Day 2 : Making a simple to do list. - Demo : https://codepen.io/MehdiAoussiad/full/jOqxydp
  - Day 3 : Simple music player. (not hosted)
