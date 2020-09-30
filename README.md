@@ -19,3 +19,4 @@
  - Day 18 : Auto Text  - Demo : https://codepen.io/MehdiAoussiad/pen/BaKENZa
  - Day 19 : Theme toggler  - Demo : https://codepen.io/MehdiAoussiad/full/WNwWKBJ
  - Day 20 : Building a Rock Paper Scissors Game. - Demo : https://codepen.io/MehdiAoussiad/full/vYGwyya
+ - Day 21 : Random Jokes with fetch using Async await syntax. - Demo : https://codepen.io/MehdiAoussiad/full/oNxRVrN
