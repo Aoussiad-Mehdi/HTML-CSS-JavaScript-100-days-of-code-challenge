@@ -39,3 +39,5 @@
     - Demo : https://codepen.io/MehdiAoussiad/full/vYGwyya
  - ### Day 21 : Random Jokes with fetch using Async await syntax. 
     - Demo : https://codepen.io/MehdiAoussiad/full/oNxRVrN
+ - ### Day 22 : KeyCodes app with vanilla Javascript.
+    - Demo : https://codepen.io/MehdiAoussiad/pen/OJNezdQ
