@@ -44,3 +44,4 @@
  - ### Day 23 : Infinite Scroll.
     - Demo : https://codepen.io/MehdiAoussiad/full/mdPNybJ
  - ### Day 24 : Simple Gsap Animation.
+    - Demo : https://codepen.io/MehdiAoussiad/full/xxVvLmx
