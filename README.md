@@ -47,3 +47,5 @@
     - Demo : https://codepen.io/MehdiAoussiad/full/xxVvLmx
  - ### Day 25 : Side Navigation.
     - Demo : https://codepen.io/MehdiAoussiad/full/JjXgwvg
+ - ### Day 26 : Locale Storage Example.
+    - Demo : https://codepen.io/MehdiAoussiad/full/gOMYWxX
