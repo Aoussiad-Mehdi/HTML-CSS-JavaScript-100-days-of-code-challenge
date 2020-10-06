@@ -49,3 +49,5 @@
     - Demo : https://codepen.io/MehdiAoussiad/full/JjXgwvg
  - ### Day 26 : Locale Storage Example.
     - Demo : https://codepen.io/MehdiAoussiad/full/gOMYWxX
+ - ### Day 27 : Meal Generator with vanilla JS using Fetch.
+    - Demo : https://codepen.io/MehdiAoussiad/full/bGebPPd
