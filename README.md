@@ -51,3 +51,5 @@
     - Demo : https://codepen.io/MehdiAoussiad/full/gOMYWxX
  - ### Day 27 : Meal Generator with vanilla JS using Fetch.
     - Demo : https://codepen.io/MehdiAoussiad/full/bGebPPd
+ - ### Day 28 : Skills bar.
+    - Demo : https://codepen.io/MehdiAoussiad/full/oNLNdwJ
