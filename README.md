@@ -53,3 +53,5 @@
     - Demo : https://codepen.io/MehdiAoussiad/full/bGebPPd
  - ### Day 28 : Skills bar.
     - Demo : https://codepen.io/MehdiAoussiad/full/oNLNdwJ
+ - ### Day 29 : Loading Buttons.
+    - Demo : https://codepen.io/MehdiAoussiad/full/KKMwggz
