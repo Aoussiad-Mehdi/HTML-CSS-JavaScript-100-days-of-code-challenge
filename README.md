@@ -59,3 +59,5 @@
     - Demo : https://codepen.io/MehdiAoussiad/full/VwjYqWG
  - ### Day 31 : Hidden User.
     - Demo : https://codepen.io/MehdiAoussiad/full/bGedEJE
+ - ### Day 32 : Simple Typing Speed game with vanilla Javascript.
+    - Demo : https://codepen.io/MehdiAoussiad/full/XWKmJMj
