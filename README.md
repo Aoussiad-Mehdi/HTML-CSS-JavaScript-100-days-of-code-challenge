@@ -61,3 +61,5 @@
     - Demo : https://codepen.io/MehdiAoussiad/full/bGedEJE
  - ### Day 32 : Simple Typing Speed game with vanilla Javascript.
     - Demo : https://codepen.io/MehdiAoussiad/full/XWKmJMj
+ - ### Day 33 : Hotel Reservation Design.
+    - Demo : https://codepen.io/MehdiAoussiad/full/yLJYROg
