@@ -67,6 +67,8 @@
     - Demo : https://codepen.io/MehdiAoussiad/full/WNxroGv
  - ### Day 35 : Color Picker with Html,Css, and Vanilla JS.
     - Demo : https://codepen.io/MehdiAoussiad/full/OJXMGaB
+ - ### Day 36 : 404 Page Design.
+    - Demo : https://codepen.io/MehdiAoussiad/full/OJXNQEe
     
     
     
