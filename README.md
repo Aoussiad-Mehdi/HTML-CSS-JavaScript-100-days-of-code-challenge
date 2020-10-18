@@ -71,6 +71,6 @@
     - Demo : https://codepen.io/MehdiAoussiad/full/OJXNQEe
  - ### Day 37 : Procrastination again.
  - ### Day 38 : HTML email design.
-    - Demo : 
+    - Demo : https://codepen.io/MehdiAoussiad/full/yLJJJwK
     
     
