@@ -69,6 +69,7 @@
     - Demo : https://codepen.io/MehdiAoussiad/full/OJXMGaB
  - ### Day 36 : 404 Page Design.
     - Demo : https://codepen.io/MehdiAoussiad/full/OJXNQEe
+ - ### Day 37 : Procrastination again.
     
     
     
