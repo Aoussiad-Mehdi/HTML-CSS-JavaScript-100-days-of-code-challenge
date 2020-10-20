@@ -74,5 +74,9 @@
     - Demo : https://codepen.io/MehdiAoussiad/full/yLJJJwK
  - ### Day 39 : Image Slider.
     - Demo : https://codepen.io/MehdiAoussiad/full/OJXXeMK
+ - ### Day 40 : Incrementing Counter.
+    - Demo : https://codepen.io/MehdiAoussiad/full/LYZRdeJ
+    
+    
     
     
