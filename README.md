@@ -83,6 +83,9 @@
  - ### Day 42 : Simple Clock using moment.js.
     - Code Demo : https://github.com/Aoussiad-Mehdi/Clock-using-moment.js
     
+ - ### Day 43 : Rotation Slideshow with HTML and CSS.
+    - Demo : https://codepen.io/MehdiAoussiad/full/WNxpxrY
+    
     
     
     
