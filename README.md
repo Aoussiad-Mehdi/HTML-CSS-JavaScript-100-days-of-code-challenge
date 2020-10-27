@@ -76,15 +76,15 @@
     - Demo : https://codepen.io/MehdiAoussiad/full/OJXXeMK
  - ### Day 40 : Incrementing Counter.
     - Demo : https://codepen.io/MehdiAoussiad/full/LYZRdeJ
-    
  - ### Day 41 : Simple tooltip.
     - Demo : https://codepen.io/MehdiAoussiad/full/ZEOBNxd
- 
  - ### Day 42 : Simple Clock using moment.js.
-    - Code Demo : https://github.com/Aoussiad-Mehdi/Clock-using-moment.js
-    
+    - Code Demo : https://github.com/Aoussiad-Mehdi/Clock-using-moment.js   
  - ### Day 43 : Rotation Slideshow with HTML and CSS.
     - Demo : https://codepen.io/MehdiAoussiad/full/WNxpxrY
+ - ### Day 44 : Procrastination.
+ - ### Day 45 : Simple Newsletter Design.
+    - Demo : https://codepen.io/MehdiAoussiad/full/NWrgeYV
     
     
     
