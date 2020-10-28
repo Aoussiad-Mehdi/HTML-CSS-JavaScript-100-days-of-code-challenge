@@ -85,6 +85,8 @@
  - ### Day 44 : Procrastination.
  - ### Day 45 : Simple Newsletter Design.
     - Demo : https://codepen.io/MehdiAoussiad/full/NWrgeYV
+ - ### Day 46 : Simple Image Upload.
+    - Demo : https://codepen.io/MehdiAoussiad/full/abZqJWP
     
     
     
