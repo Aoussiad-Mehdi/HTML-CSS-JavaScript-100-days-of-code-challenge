@@ -88,8 +88,8 @@
  - ### Day 46 : Simple Image Upload.
     - Demo : https://codepen.io/MehdiAoussiad/full/abZqJWP
     
-    
-    
+ - ### Day 47 : User Card Design.
+    - Demo : https://codepen.io/MehdiAoussiad/full/bGevxMw
     
     
     
