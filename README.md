@@ -92,6 +92,8 @@
     - Demo : https://codepen.io/MehdiAoussiad/full/bGevxMw
  - ### Day 48 : Blur Animation HTML CSS & JS
     - Demo : https://codepen.io/MehdiAoussiad/full/wvWjBmM
+ - ### Day 49 : Line through effect.
+    - Demo : https://codepen.io/MehdiAoussiad/full/PozaYBp
     
     
     
