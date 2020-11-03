@@ -94,6 +94,8 @@
     - Demo : https://codepen.io/MehdiAoussiad/full/wvWjBmM
  - ### Day 49 : Line through effect.
     - Demo : https://codepen.io/MehdiAoussiad/full/PozaYBp
+ - ### Day 50 : Lazy loading images with the intersection observer API.
+    - Demo : https://codepen.io/MehdiAoussiad/full/KKMeoyJ
     
     
     
