@@ -96,6 +96,8 @@
     - Demo : https://codepen.io/MehdiAoussiad/full/PozaYBp
  - ### Day 50 : Lazy loading images with the intersection observer API.
     - Demo : https://codepen.io/MehdiAoussiad/full/KKMeoyJ
+ - ### Day 51 : User Card Design HTML & CSS.
+    - Demo : https://codepen.io/MehdiAoussiad/full/PozBgNa
     
     
     
