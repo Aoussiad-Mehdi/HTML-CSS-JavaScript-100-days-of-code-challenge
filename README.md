@@ -99,7 +99,7 @@
  - ### Day 51 : User Card Design HTML & CSS.
     - Demo : https://codepen.io/MehdiAoussiad/full/PozBgNa
  - ### Day 52 : Reviews Design HTML & CSS.
-    - 
+    - Demo : https://codepen.io/MehdiAoussiad/full/gOMBrzN
     
    
     
