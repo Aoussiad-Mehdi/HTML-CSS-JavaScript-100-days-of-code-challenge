@@ -102,6 +102,8 @@
     - Demo : https://codepen.io/MehdiAoussiad/full/gOMBrzN
  - ### Day 53 : Send Love Button HTML CSS & JavaScript.
     - Demo : https://codepen.io/MehdiAoussiad/full/yLJQzxO
+ - ### Day 54 : Feedback UI Design HTML CSS & JS.
+    - Demo : https://codepen.io/MehdiAoussiad/full/KKMbGBO
     
    
    
