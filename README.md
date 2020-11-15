@@ -86,8 +86,7 @@
  - ### Day 45 : Simple Newsletter Design.
     - Demo : https://codepen.io/MehdiAoussiad/full/NWrgeYV
  - ### Day 46 : Simple Image Upload.
-    - Demo : https://codepen.io/MehdiAoussiad/full/abZqJWP
-    
+    - Demo : https://codepen.io/MehdiAoussiad/full/abZqJWP  
  - ### Day 47 : User Card Design.
     - Demo : https://codepen.io/MehdiAoussiad/full/bGevxMw
  - ### Day 48 : Blur Animation HTML CSS & JS
