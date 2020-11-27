@@ -113,7 +113,8 @@
  - ### Day 58 : First React App (Books).
     - Demo : https://react-ebay-books.netlify.app/
     
-
+- ### Day 59 : Vanilla JavaScript Drum Kit.
+    - Demo : https://codepen.io/MehdiAoussiad/full/PoGwYwe
   
     
     
