@@ -116,6 +116,7 @@
 - ### Day 59 : Vanilla JavaScript Drum Kit.
     - Demo : https://codepen.io/MehdiAoussiad/full/PoGwYwe
   
-    
+- ### Day 60 : Vanilla JS Hover board.
+    - Demo : https://codepen.io/MehdiAoussiad/full/BaLyvBz
     
     
