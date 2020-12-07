@@ -117,7 +117,7 @@
     - Demo : https://codepen.io/MehdiAoussiad/full/PoGwYwe
   
 - ### Day 60 : Vanilla JS Hover board.
-    - Demo : https://codepen.io/MehdiAoussiad/full/BaLyvBz-
+    - Demo : https://codepen.io/MehdiAoussiad/full/BaLyvBz
 - ### Day 61 : Blog Posts Design HTML & CSS.
     - Demo : https://codepen.io/MehdiAoussiad/full/vYXOqez
     
