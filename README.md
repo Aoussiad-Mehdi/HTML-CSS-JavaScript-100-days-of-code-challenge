@@ -121,4 +121,7 @@
 - ### Day 61 : Blog Posts Design HTML & CSS.
     - Demo : https://codepen.io/MehdiAoussiad/full/vYXOqez
     
+- ### Day 62 : Traffic Lights.
+    - Demo : https://codepen.io/MehdiAoussiad/full/MWjeoLM
+    
     
