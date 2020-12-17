@@ -127,7 +127,7 @@
 - ### Day 63 : Live counting views by using the countAPI.
     - Demo : https://codepen.io/MehdiAoussiad/full/BaLQpyK
     
-    
-    
+- ### Day 64 : Simple React counter.
+    - Demo: https://github.com/Aoussiad-Mehdi/Simple-React-counter
     
     
