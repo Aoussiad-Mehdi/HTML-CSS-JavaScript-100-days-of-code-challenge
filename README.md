@@ -133,3 +133,5 @@
 
 - ### Day 66 : BattleCSS face challenge.
     - Demo: https://codepen.io/MehdiAoussiad/full/yLaPzJX
+- ### Day 67 : Rain Drops HTML CSS & JS.
+    - Demo: https://codepen.io/MehdiAoussiad/full/VwKyYQQ
