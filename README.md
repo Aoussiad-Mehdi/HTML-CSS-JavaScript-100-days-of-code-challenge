@@ -135,3 +135,5 @@
     - Demo: https://codepen.io/MehdiAoussiad/full/yLaPzJX
 - ### Day 67 : Rain Drops HTML CSS & JS.
     - Demo: https://codepen.io/MehdiAoussiad/full/VwKyYQQ
+- ### Day 68 : Currency Converter.
+    - Demo: https://codepen.io/MehdiAoussiad/full/xxEpprR
