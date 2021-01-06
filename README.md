@@ -141,5 +141,7 @@
     - Demo: https://codepen.io/MehdiAoussiad/full/xxEpprR
 - ### Day 69 : Simple Image Slider with HTML CSS & JavaScript.
     - Demo: https://codepen.io/MehdiAoussiad/full/gOweYZN
+- ### Day 70 : Digital Clock using HTML, CSS, and Vanilla JavaScript.
+    - Demo: https://codepen.io/MehdiAoussiad/full/BaLVpab
     
     
