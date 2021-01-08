@@ -143,6 +143,8 @@
     - Demo: https://codepen.io/MehdiAoussiad/full/gOweYZN
 - ### Day 70 : Digital Clock using HTML, CSS, and Vanilla JavaScript.
     - Demo: https://codepen.io/MehdiAoussiad/full/BaLVpab
+- ### Day 71 : Simple Like Button Design.
+    - Demo: https://codepen.io/MehdiAoussiad/full/gOwjXZy
     
     
     
