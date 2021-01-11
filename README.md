@@ -145,6 +145,8 @@
     - Demo: https://codepen.io/MehdiAoussiad/full/BaLVpab
 - ### Day 71 : Simple Like Button Design.
     - Demo: https://codepen.io/MehdiAoussiad/full/gOwjXZy
+- ### Day 72 : Contact form using HTML & CSS.
+    - Demo: https://codepen.io/MehdiAoussiad/full/qBaMwmK
     
     
    
