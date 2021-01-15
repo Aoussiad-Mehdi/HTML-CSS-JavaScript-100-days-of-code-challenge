@@ -147,5 +147,7 @@
     - Demo: https://codepen.io/MehdiAoussiad/full/gOwjXZy
 - ### Day 72 : Contact form using HTML & CSS.
     - Demo: https://codepen.io/MehdiAoussiad/full/qBaMwmK
+- ### Day 73 : Drag and Drop HTML CSS & JavaScript.
+    - Demo: https://codepen.io/MehdiAoussiad/full/bGwOwyb
     
    
