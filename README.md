@@ -139,12 +139,16 @@
     
 - ### Day 68 : Currency Converter.
     - Demo: https://codepen.io/MehdiAoussiad/full/xxEpprR
+    
 - ### Day 69 : Simple Image Slider with HTML CSS & JavaScript.
     - Demo: https://codepen.io/MehdiAoussiad/full/gOweYZN
+    
 - ### Day 70 : Digital Clock using HTML, CSS, and Vanilla JavaScript.
     - Demo: https://codepen.io/MehdiAoussiad/full/BaLVpab
+    
 - ### Day 71 : Simple Like Button Design.
     - Demo: https://codepen.io/MehdiAoussiad/full/gOwjXZy
+    
 - ### Day 72 : Contact form using HTML & CSS.
     - Demo: https://codepen.io/MehdiAoussiad/full/qBaMwmK
 - ### Day 73 : Drag and Drop HTML CSS & JavaScript.
