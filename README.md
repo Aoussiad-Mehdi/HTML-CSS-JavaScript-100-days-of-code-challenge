@@ -151,10 +151,13 @@
     
 - ### Day 72 : Contact form using HTML & CSS.
     - Demo: https://codepen.io/MehdiAoussiad/full/qBaMwmK
+    
 - ### Day 73 : Drag and Drop HTML CSS & JavaScript.
     - Demo: https://codepen.io/MehdiAoussiad/full/bGwOwyb
+    
 - ### Day 74 : Simple user birthdays using React(with useState).
     - Demo: https://csb-wpt9y.netlify.app/
+    
 - ### Day 75 : Simple reviews slider using React.
     - Demo: https://csb-tgwxf.netlify.app/
   
