@@ -151,5 +151,6 @@
     - Demo: https://codepen.io/MehdiAoussiad/full/bGwOwyb
 - ### Day 74 : Simple user birthdays using React(with useState).
     - Demo: https://csb-wpt9y.netlify.app/
-    
+- ### Day 75 : Simple reviews slider using React.
+    - Demo: https://csb-tgwxf.netlify.app/
   
