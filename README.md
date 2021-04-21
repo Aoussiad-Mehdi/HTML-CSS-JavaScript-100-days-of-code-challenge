@@ -160,7 +160,9 @@
     
 - ### Day 75 : Simple reviews slider using React.
     - Demo: https://csb-tgwxf.netlify.app/
-    
+
+- ### Day 76 : Simple ReactJs Tours Project.
+   - Demo: https://suspicious-mayer-6adcd2.netlify.app/
     
     
     
