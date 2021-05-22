@@ -165,7 +165,10 @@
    - Demo: https://suspicious-mayer-6adcd2.netlify.app/
 
 - ### Day 77 : Simple accordion using ReactJS.
-   - Demo: https://codesandbox.io/s/sharp-wind-p0m0v?file=/src/App.js 
+   - Demo: https://codesandbox.io/s/sharp-wind-p0m0v?file=/src/App.js
+
+- ### Day 78 : Popup Modal using ReactJS.
+   - Demo: https://csb-dimm8.netlify.app/  
     
     
     
